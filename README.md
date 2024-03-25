@@ -15,4 +15,5 @@ This project consist of a server, a hydrogen client, and oxygen client. The clie
 ## Setup
 - In the project folder, open 3 separate terminals.
 - Execute `./server.exe`  `./hclient.exe`  `./oclient.exe`
-- When compiling, include the options `-lwsock32` `-std=c++11` 
+- When compiling, include the options `-lwsock32` `-std=c++11`
+- In the event the program unexpectedly freezes, simply rerun it.
